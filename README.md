@@ -1,2 +1,2 @@
 # web-example
-a housework about html+css
+homework about html+css
